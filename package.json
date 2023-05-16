@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rkgallaway/example-server.git"
+    "url": "git+https://github.com/triciasawyer/server-deployment-practice.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rkgallaway/example-server/issues"
+    "url": "https://github.com/triciasawyer/server-deployment-practice/issues"
   },
-  "homepage": "https://github.com/rkgallaway/example-server#readme",
+  "homepage": "https://github.com/triciasawyer/server-deployment-practice#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
